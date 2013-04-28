@@ -1,0 +1,144 @@
+10
+
+dir
+52240
+svn://192.168.0.211/Galaxy/CoralBay-Android/Server/heritrix3/trunk/engine/src/webapps/selftest
+svn://192.168.0.211/Galaxy
+
+
+
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08ed3e6e-de46-4510-bb33-16d2fb9a436e
+
+BadURIsStopPageParsing
+dir
+
+SimpleJavascriptExtraction
+dir
+
+BackgroundImageExtraction
+dir
+
+robots.txt
+file
+
+
+
+
+2012-04-24T06:58:13.570200Z
+e12cbbe1062c2fbfd8ea0b4985cf8839
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+220
+
+WEB-INF
+dir
+
+SpacesInHrefPath
+dir
+
+Checkpoint
+dir
+
+FlashParse
+dir
+
+Charset
+dir
+
+MaxLinkHops
+dir
+
+Refresh
+dir
+
+FormTagExtraction
+dir
+
+Auth
+dir
+
+RobotsExclusion
+dir
+
+index.jsp
+file
+
+
+
+
+2012-04-24T06:58:13.576200Z
+07166a120ee17035c3bf9a86437e9e87
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3124
+
+TrickyRelativeURIs
+dir
+
+SimpleDocumentTypes
+dir
+
+Frames
+dir
+

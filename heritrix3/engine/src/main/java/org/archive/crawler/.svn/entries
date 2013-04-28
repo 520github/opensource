@@ -1,0 +1,144 @@
+10
+
+dir
+52240
+svn://192.168.0.211/Galaxy/CoralBay-Android/Server/heritrix3/trunk/engine/src/main/java/org/archive/crawler
+svn://192.168.0.211/Galaxy
+
+
+
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08ed3e6e-de46-4510-bb33-16d2fb9a436e
+
+processor
+dir
+
+event
+dir
+
+restlet
+dir
+
+postprocessor
+dir
+
+monitor
+dir
+
+migrate
+dir
+
+frontier
+dir
+
+deciderules
+dir
+
+datamodel
+dir
+
+framework
+dir
+
+package.html
+file
+
+
+
+
+2012-04-24T06:58:16.103800Z
+be124a86a8c6d4a52d85b3e8deacfbef
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7902
+
+prefetch
+dir
+
+spring
+dir
+
+doc-files
+dir
+
+io
+dir
+
+reporting
+dir
+
+util
+dir
+
+Heritrix.java
+file
+
+
+
+
+2012-04-24T06:58:16.116800Z
+bde83e315d4a38289a55d3c0602fd6a1
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19605
+

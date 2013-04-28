@@ -1,0 +1,86 @@
+10
+
+dir
+52240
+svn://192.168.0.211/Galaxy/CoralBay-Android/Server/heritrix3/trunk/modules/src/test/java/org/archive/modules
+svn://192.168.0.211/Galaxy
+
+
+
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08ed3e6e-de46-4510-bb33-16d2fb9a436e
+
+canonicalize
+dir
+
+recrawl
+dir
+
+fetcher
+dir
+
+net
+dir
+
+deciderules
+dir
+
+credential
+dir
+
+extractor
+dir
+
+writer
+dir
+
+ScriptedProcessorTest.java
+file
+
+
+
+
+2012-04-24T06:58:34.805000Z
+41a87a161f4cc95fd16bf3e788342bb0
+2012-04-01T06:15:18.268256Z
+50856
+zhaoliang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+956
+

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 43
+.git
+.target
+.project
+.classpath
+.settings
+
+END

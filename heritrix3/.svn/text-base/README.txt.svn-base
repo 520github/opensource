@@ -1,0 +1,1 @@
+link dist/README.txt
